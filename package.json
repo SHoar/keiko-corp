@@ -1,0 +1,25 @@
+{
+  "name": "keiko-corp",
+  "version": "1.0.0",
+  "description": "The greatest company ever created",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHoar/keiko-corp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHoar/keiko-corp/issues"
+  },
+  "homepage": "https://github.com/SHoar/keiko-corp#readme",
+  "devDependencies": {
+    "minify": "^3.0.5"
+  },
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
